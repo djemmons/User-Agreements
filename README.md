@@ -1,4 +1,4 @@
-# [Project Name]
+# [User Agreements]
 
 [Value Proposition]
 
