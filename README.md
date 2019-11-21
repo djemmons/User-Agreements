@@ -6,6 +6,6 @@ Terms of service will also be fairly simple to read through and not a ton of tex
 
 ## Links
 
-[Live App](https://repl.it/@DerrickEmmons/User-Agreements-Proj)
+[Live App](https://xd.adobe.com/view/c2ce0c5b-71b8-4343-5c41-f20722599fff-b4ff/)
 
 [Project Board](../../projects/1)
